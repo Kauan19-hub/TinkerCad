@@ -142,7 +142,17 @@ return 0;
 
 ###
 
-**Continua...**
+**<h2>📬 Contato:<h2>**
+
+###
+
+📧 E-mail: saleskauan308@gmail.com<br>
+💼 LinkedIn: [Kauan Vinícius](https://www.linkedin.com/in/kauan-vin%C3%ADcius)<br>
+💻 Instagram: [kauanl01](https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==)<br>
+
+###
+
+**Link do arduino será inserida...**
 
 
 
