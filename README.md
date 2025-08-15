@@ -4,7 +4,7 @@
 
 ###
 
-**<h1>🥇 Programação com C++</h1>**
+**<h1>🥇 Programação com C++ 🥇</h1>**
 
 ###
 
