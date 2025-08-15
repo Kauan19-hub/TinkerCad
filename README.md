@@ -156,7 +156,7 @@ return 0;
 
 ###
 
-**<h2>📌 Projetos desenvolvidos no TinkerCad</h2>**
+**<h2>📌 Projetos desenvolvidos no TinkerCad:</h2>**
 
 ###
 
