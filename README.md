@@ -156,7 +156,13 @@ return 0;
 
 ###
 
-**Link do arduino será inserida...**
+**<h2>📌 Projetos desenvolvidos no TinkerCad</h2>**
+
+###
+
+- Led Funcional: [Acesse](https://www.tinkercad.com/things/jukqy7vSK6P-botao-de-led-em-arduino)<br>
+- Semáforo: [Acesse](https://www.tinkercad.com/things/4emLW2LvB0L-semaforo-em-arduino)<br>
+- Potenciômetro: [Acesse](https://www.tinkercad.com/things/fulBNiYRZMg-potenciometro-em-arduino)
 
 
 
