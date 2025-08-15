@@ -1,4 +1,9 @@
-**Imagem será inserida...**
+<div align="left">
+    <<img width="1200" height="360" alt="image" src="https://github.com/user-attachments/assets/a8cff00d-0461-4d2f-bfa7-442aae59e773" />
+
+</div>
+
+###
 
 **<h1>🥇 Programação com C++</h1>**
 
