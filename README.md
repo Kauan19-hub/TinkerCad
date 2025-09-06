@@ -4,7 +4,7 @@
 
 Welcome to my *C++* repository, where I show you the concept of the language, codes, and some other things about it.
 
-###
+---
 
 **<h2>📋 Introduction:</h2>**
 
@@ -135,25 +135,4 @@ return 0;
 - **Function:** Shows that your code ended without errors;
 - Returning `0` is a convention that means the code was well developed.
 
-###
-
-**<h2>📬 Contact:</h2>**
-
-###
-
-📧 E-mail: saleskauan308@gmail.com<br>
-💼 LinkedIn: Kauan Vinícius: https://www.linkedin.com/in/kauan-vin%C3%ADcius<br>
-💻 Instagram: kauanl01: https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==<br>
-
-###
-
-**<h2>📌 Projects developed in TinkerCad:</h2>**
-
-###
-
-📊 Functional Led: Access:
-
-###
- https://www.tinkercad.com/things/jukqy7vSK6P-botao-de-led-em-arduino<br>
-🛠 Traffic Light: Access: https://www.tinkercad.com/things/4emLW2LvB0L-semaforo-em-arduino<br>
-⚙ Potentiometer: Access: https://www.tinkercad.com/things/fulBNiYRZMg-potenciometro-em-arduino
+---
