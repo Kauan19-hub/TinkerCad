@@ -1,53 +1,44 @@
-<div align="left">
-    <img width="1200" height="360" alt="image" src="https://github.com/user-attachments/assets/a8cff00d-0461-4d2f-bfa7-442aae59e773" />
-</div>
+**<h1>🥇 Programming with C++ 🥇</h1>**
 
 ###
 
-**<h1>🥇 Programação com C++ 🥇</h1>**
+Welcome to my *C++* repository, where I show you the concept of the language, codes, and some other things about it.
 
 ###
 
-Boas-vindas ao meu repositório de **C++**, aqui, eu te mostro o conceito da linguagem, códigos<br>
-e algumas coisas sobre.
+**<h2>📋 Introduction:</h2>**
 
 ###
 
-**<h2>📋 Introdução:</h2>**
+This repository was developed with the goal of improving knowledge about C++ and sharing it. The codes were used in a circuit project using *Arduino* and were created on the AUTOCAD TinkerCad platform. At the end of this repository, I will be leaving the images of the 3 projects!
 
 ###
 
-Este repositório foi desenvolvido com o objetivo de aprimorar conhecimentos sobre C++, e compartilhá-los.<br>
-Os códigos foram usados em um projeto de circuíto usando **Arduíno** e foram criados na plataforma AUTOCAD<br>
-TinkerCad. No final deste repositório, estarei deixando as imagens dos 3 projetos!
+**<h2>💻 What is it for?</h2>**
 
 ###
 
-**<h2>💻 Pra quê serve?</h2>**
+✅ Learn C++ from scratch;<br>
+✅ Test simple codes in a practical way;<br>
+✅ Practice problem solving.
 
 ###
 
-✅ Aprender C++ do zero;<br>
-✅ Testar códigos simples de maneira prática;<br> 
-✅ Praticar resolução de problemas.
+**<h2>📩 Requirements:</h2>**
 
 ###
 
-**<h2>📩 Requisitos:</h2>**
+- Create an account on TinkerCad;
+- Create a circuit project;
+- Operating System: Windows, Linux or MacOS.
 
 ###
 
-- Criar uma conta no TinkerCad;
-- Criar um projeto de circuíto;
-- Sistema Operacional: Windows, Linux ou MacOS.
+**<h2>🌐 Basic Codes:</h2>**
 
 ###
 
-**<h2>🌐 Códigos básicos:</h2>**
-
-###
-
-Abaixo, estão alguns códigos simples e super legais para você usar! Veja:
+Below are some simple and super cool codes for you to use! Take a look:
 
 ###
 ```cpp
@@ -55,10 +46,10 @@ Abaixo, estão alguns códigos simples e super legais para você usar! Veja:
 
 int main() {
 
-    std::string nome;
-    std::cout << "Fala, dev! Qual é o seu nome? ";
-    std::cin >> nome;
-    std:;cout << "Boas-vindas ao C++, " << nome << "!!" << std::end1;
+    std::string name;
+    std::cout << "Hey, dev! What's your name? ";
+    std::cin >> name;
+    std::cout << "Welcome to C++, " << name << "!!" << std::endl;
 
     return 0;
 
@@ -67,11 +58,11 @@ int main() {
 
 ###
 
-✅ Este comando tem como onjetivo, solicitar seu nome, e exibir uma mensagem de boas-vindas com seu nome.
+✅ This command aims to request your name and display a welcome message with your name.
 
 ###
 
-**<h2>🤔 Afinal, o que foi escrito no código?</h2>**
+**<h2>🤔 After all, what was written in the code?</h2>**
 
 ###
 ```cpp
@@ -80,8 +71,8 @@ int main() {
 
 ###
 
-- **Função:** Inclui a biblioteca `iostream`, que permite o uso de 'entrada' e 'saída', como: `std::cin` e `std::cout`;
-- **Motivo da importância:** Sem ela, a linguagem não vai imprimir mensagem e/ou ler dados;
+- **Function:** Includes the `iostream` library, which allows the use of 'input' and 'output', such as: `std::cin` and `std::cout`;
+- **Reason for importance:** Without it, the language will not print a message and/or read data;
 
 ###
 ```cpp
@@ -91,48 +82,48 @@ int main() {
 
 ###
 
-- **Função:** Define a função principal do código;
-- **Motivo da importância:** Todo programa C++ inicia a execução a partir da `main()`;
-- **Significado de `int`:** Retorna um **número inteiro** no fim da execução;
-- **Significado de `Return 0`:** Significa que rodou sem erros.
+- **Function:** Defines the main function of the code;
+- *Reason for importance:* Every C++ program starts execution from `main()`;
+- **Meaning of `int`:** Returns an *integer* at the end of execution;
+- **Meaning of `Return 0`:** Means it ran without errors.
 
 ###
 ```cpp
-std::string nome;
+std::string name;
 ```
 
 ###
 
-- **Função:** Cria uma variável `nome` do tipo `string`;
-- **Motivo da importância:** Guarda o nome digitado.
+- **Function:** Creates a variable `name` of type `string`;
+- **Reason for importance:** Stores the entered name.
 
 ###
 ```cpp
-std::cout << "Fala, dev! Qual é o seu nome? ";
+std::cout << "Hey, dev! What's your name? ";
 ```
 
 ###
 
-- **Função:** Exibe: `"Olá! Qual é o seu nome? "`.
+- **Function:** Displays: `"Hey! What's your name? "`.
 
 ###
 ```cpp
-std::cin >> nome;
+std::cin >> name;
 ```
 
 ###
 
-- **Função:** Armazena o nome digitado, na variável `nome`.
+- **Function:** Stores the entered name in the `name` variable.
 
 ###
 ```cpp
-std::cout << "Boas-vindas ao C++, " << nome << "!!" << std::end1;
+std::cout << "Welcome to C++, " << name << "!!" << std::endl;
 ```
 
 ###
 
-- **Função:** Exibe mensagem de Boas-Vindas, incluíndo o seu nome.
-- `std::end1`: Pula 1 linha ao final da mensagem.
+- **Function:** Displays a Welcome message, including your name.
+- `std::endl`: Jumps 1 line at the end of the message.
 
 ###
 ```cpp
@@ -141,43 +132,28 @@ return 0;
 
 ###
 
-- **Função:** Mostra que seu código encerrou sem erros;
-- Retornar `0` é uma convenção que significa que o código foi bem desenvolvido.
+- **Function:** Shows that your code ended without errors;
+- Returning `0` is a convention that means the code was well developed.
 
 ###
 
-**<h2>📬 Contato:</h2>**
+**<h2>📬 Contact:</h2>**
 
 ###
 
 📧 E-mail: saleskauan308@gmail.com<br>
-💼 LinkedIn: [Kauan Vinícius](https://www.linkedin.com/in/kauan-vin%C3%ADcius)<br>
-💻 Instagram: [kauanl01](https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==)<br>
+💼 LinkedIn: Kauan Vinícius: https://www.linkedin.com/in/kauan-vin%C3%ADcius<br>
+💻 Instagram: kauanl01: https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==<br>
 
 ###
 
-**<h2>📌 Projetos desenvolvidos no TinkerCad:</h2>**
+**<h2>📌 Projects developed in TinkerCad:</h2>**
 
 ###
 
-📊 Led Funcional: [Acesse](https://www.tinkercad.com/things/jukqy7vSK6P-botao-de-led-em-arduino)<br>
-🛠 Semáforo: [Acesse](https://www.tinkercad.com/things/4emLW2LvB0L-semaforo-em-arduino)<br>
-⚙ Potenciômetro: [Acesse](https://www.tinkercad.com/things/fulBNiYRZMg-potenciometro-em-arduino)
+📊 Functional Led: Access:
 
 ###
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ https://www.tinkercad.com/things/jukqy7vSK6P-botao-de-led-em-arduino<br>
+🛠 Traffic Light: Access: https://www.tinkercad.com/things/4emLW2LvB0L-semaforo-em-arduino<br>
+⚙ Potentiometer: Access: https://www.tinkercad.com/things/fulBNiYRZMg-potenciometro-em-arduino
