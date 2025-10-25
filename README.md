@@ -1,40 +1,40 @@
-**<h1>🥇 Programming with C++ 🥇</h1>**
+**<h2>Programming with C++</h2>**
 
 ###
 
-Welcome to my *C++* repository, where I show you the concept of the language, codes, and some other things about it.
+Welcome to my `C++` repository, where I show you the concept of the language, codes, and some other things about it.
 
 ---
 
-**<h2>📋 Introduction:</h2>**
+**<h2>Introduction:</h2>**
 
 ###
 
-This repository was developed with the goal of improving knowledge about C++ and sharing it. The codes were used in a circuit project using *Arduino* and were created on the AUTOCAD TinkerCad platform. At the end of this repository, I will be leaving the images of the 3 projects!
+This repository was developed with the goal of improving knowledge about C++ and sharing it. The codes were used in a circuit project using *Arduino* and were created on the `AUTOCAD` `TinkerCad` platform. At the end of this repository, I will be leaving the images of the 3 projects!
 
 ###
 
-**<h2>💻 What is it for?</h2>**
+**<h2>What is it for?</h2>**
 
 ###
 
-✅ Learn C++ from scratch;<br>
+✅ Learn `C++` from scratch;<br>
 ✅ Test simple codes in a practical way;<br>
 ✅ Practice problem solving.
 
 ###
 
-**<h2>📩 Requirements:</h2>**
+**<h2>Requirements:</h2>**
 
 ###
 
-- Create an account on TinkerCad;
+- Create an account on `TinkerCad`;
 - Create a circuit project;
-- Operating System: Windows, Linux or MacOS.
+- Operating System: `Windows`, `Linux` or `MacOS`.
 
 ###
 
-**<h2>🌐 Basic Codes:</h2>**
+**<h2>Basic Codes</h2>**
 
 ###
 
@@ -62,7 +62,7 @@ int main() {
 
 ###
 
-**<h2>🤔 After all, what was written in the code?</h2>**
+**<h2>After all, what was written in the code?</h2>**
 
 ###
 ```cpp
