@@ -7,6 +7,7 @@ void setup() {
   pinMode(botao, INPUT_PULLUP);
   pinMode(led, OUTPUT);
   Serial.begin(9600);
+
 }
 
 void loop() {
@@ -16,9 +17,11 @@ void loop() {
     ledLigado = !ledLigado; 
     digitalWrite(led, ledLigado ? HIGH : LOW);
     delay(90); 
+
   }
 
   botaoAnterior = botaoAtual;
+
 }
 
  

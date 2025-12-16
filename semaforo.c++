@@ -3,17 +3,22 @@ int vermelhoC = 13, amareloC = 12, verdeC = 11;
 int vermelhoP = 10, verdeP = 9;
 
 void setup()
+
 {
+
   pinMode(vermelhoC, OUTPUT);
   pinMode(amareloC, OUTPUT);
   pinMode(verdeC, OUTPUT);
   pinMode(button, INPUT);
   pinMode(verdeP, OUTPUT);
   pinMode(vermelhoP, OUTPUT);
+
 }
 
 void loop()
+
 {
+
   int buttonstart, i,j;
   
    digitalWrite(vermelhoP, HIGH);
@@ -31,6 +36,7 @@ void loop()
         j = 999;
         
         break;
+
       }
     }
   }
@@ -46,4 +52,5 @@ void loop()
    delay(4000);
    digitalWrite(vermelhoC, LOW);
    digitalWrite(verdeP, LOW);
+   
 }
