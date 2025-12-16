@@ -136,3 +136,26 @@ return 0;
 - Returning `0` is a convention that means the code was well developed.
 
 ---
+
+## Potentiometer
+
+###
+
+<img width="1583" height="690" alt="image" src="https://github.com/user-attachments/assets/b4bd89a2-ffd7-4003-ba44-3aab199745d9" />
+
+###
+
+## Traffic Light
+
+<img width="1583" height="690" alt="image" src="https://github.com/user-attachments/assets/220c4a1d-06be-4b72-927c-999f461e36e7" />
+
+###
+
+## Red Button
+
+<img width="1583" height="690" alt="image" src="https://github.com/user-attachments/assets/22415d38-01b0-4e2f-a02b-0557fe5ce7ed" />
+
+---
+
+
+
