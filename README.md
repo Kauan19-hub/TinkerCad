@@ -136,7 +136,3 @@ return 0;
 - Returning `0` is a convention that means the code was well developed.
 
 ---
-
-
-
-https://www.tinkercad.com/things/fulBNiYRZMg-potenciometro-em-arduino
