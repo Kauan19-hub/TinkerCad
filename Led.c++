@@ -23,5 +23,3 @@ void loop() {
   botaoAnterior = botaoAtual;
 
 }
-
- 
